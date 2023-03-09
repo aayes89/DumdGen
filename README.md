@@ -1,2 +1,2 @@
 # DumdGen
-Dumd file generator
+Dummy file generator for PS2
